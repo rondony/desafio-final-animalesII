@@ -1,0 +1,39 @@
+{
+  "animales": [
+    {
+      "name": "Aguila",
+      "tipo": ["ave rapaz", "aéreo", "carnívoro", "vertebrado", "plumaje"],
+      "rango": 1,
+      "imagen": "Aguila.png",
+      "sonido": "Chillido.mp3"
+    },
+    {
+      "name": "Leon",
+      "tipo": ["felino", "terrestre", "carnívoro", "vertebrado", "pelaje"],
+      "rango": 2,
+      "imagen": "Leon.png",
+      "sonido": "Rugido.mp3"
+    },
+    {
+      "name": "Lobo",
+      "tipo": ["canino", "terrestre", "carnívoro", "vertebrado", "pelaje"],
+      "rango": 3,
+      "imagen": "Lobo.jpg",
+      "sonido": "Aullido.mp3"
+    },
+    {
+      "name": "Oso",
+      "tipo": ["omnivoro", "terrestre", "carnívoro", "vertebrado", "pelaje"],
+      "rango": 4,
+      "imagen": "Oso.jpg",
+      "sonido": "Grunido.mp3"
+    },
+    {
+      "name": "Serpiente",
+      "tipo": ["reptil", "rastrera", "carnívoro", "vertebrado", "escamoso"],
+      "rango": 5,
+      "imagen": "Serpiente.jpg",
+      "sonido": "Siseo.mp3"
+    }
+  ]
+}
